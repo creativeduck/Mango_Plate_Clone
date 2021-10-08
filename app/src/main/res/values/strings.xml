@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FifthWeek</string>
+    <string name="kakao_app_key">o+S3vrcaEzibWnYZF1TKN52OjRg=</string>
+    <string name="kakao_native_key">0bb232551e01c292b2230ed8114c3b3c</string>
+
+    <string name="facebook_app_id">304659471011830</string>
+    <string name="fb_login_protocol_scheme">fb304659471011830</string>
+    <string name="naver_client_id">iyrimg8mf0</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/discover"
+        android:title="맛집찾기"
+        android:icon="@drawable/navi_icon_discovery"/>
+    <item android:id="@+id/sale"
+        android:title="할인"
+        android:icon="@drawable/navi_icon_sale"/>
+    <item android:id="@+id/fab"
+        android:title=""
+        app:showAsAction="never"/>
+    <item android:id="@+id/news"
+        android:title="소식"
+        android:icon="@drawable/navi_icon_news"/>
+    <item android:id="@+id/my"
+        android:title="내정보"
+        android:icon="@drawable/navi_icon_my"/>
+
+</menu>
