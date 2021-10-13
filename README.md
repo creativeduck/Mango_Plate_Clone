@@ -6,11 +6,7 @@
 
 ### 📗 Library & What I Learned
 + DiffUtil
-+ Room
-+ Coroutine
-+ ViewModel
-+ LiveData
 
 ### ✏️ 중점 사항   
-+ 게임을 통해 멀티스레드에 대해 공부했습니다.
-+ 기존에 사용하던 Handler 뿐만 아니라 Async Task, Coroutine 등 다양한 방식을 적용하려고 노력했습니다.
++ 다양한 Open API를 사용하여 데이터를 가져오는 것을 중점적으로 진행했습니다.
++ 
