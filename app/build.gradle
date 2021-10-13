@@ -29,7 +29,7 @@ android {
         buildConfigField "String", "SEOUL_API_KEY", properties['seoul_api_key']
         buildConfigField "String", "REST_API_KEY", properties['rest_api_key']
 
-        manifestPlaceholders = [GOOGLE_MAP_API_KEY : "AIzaSyCw3XmPu7a4sbsgUmiaMLI3P6Mus-XIMKM"]
+        manifestPlaceholders = [GOOGLE_MAP_API_KEY : google_map_api_key]
         manifestPlaceholders = [NAVER_CLIENT_ID : "iyrimg8mf0"]
 
 
