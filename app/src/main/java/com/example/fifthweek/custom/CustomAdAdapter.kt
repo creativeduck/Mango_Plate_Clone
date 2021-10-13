@@ -1,8 +1,9 @@
-package com.example.fifthweek
+package com.example.fifthweek.custom
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.example.fifthweek.OnItemClickListener
 import com.example.fifthweek.databinding.CustomAdItemBinding
 
 class CustomAdAdapter : RecyclerView.Adapter<CustomAdAdapter.Holder>() {

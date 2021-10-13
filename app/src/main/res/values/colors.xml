@@ -8,7 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="status_gray">#FF9A9A9A</color>
-    <color name="orange">#FFFF5544</color>
+    <color name="orange">#FFEE792E</color>
     <color name="gray">#FFF0F0F0</color>
     <color name="littlegray">#FFEAE8EA</color>
     <color name="moredarkgray">#FFBCBCBC</color>
@@ -16,4 +16,6 @@
     <color name="facebook">#FF435993</color>
     <color name="kakao">#FFFAEA4D</color>
     <color name="kakao_text">#FF413536</color>
+    <color name="seekbar">#FF797979</color>
+    <color name="marker_gray">#FF919191</color>
 </resources>

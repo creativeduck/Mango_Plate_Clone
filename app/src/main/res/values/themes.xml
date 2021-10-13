@@ -17,5 +17,16 @@
     <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
         <item name="android:windowBackground">@drawable/splash_shape</item>
     </style>
+    <style name="SeekBarWithoutDot" parent="Widget.AppCompat.SeekBar.Discrete">
+        <item name="tickMark">@null</item>
+    </style>
+    <style name="tab_text" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="chipStyle" parent="Widget.MaterialComponents.ChipGroup">
+        <item name="android:drawable">@drawable/grid_shape</item>
+    </style>
 
 </resources>

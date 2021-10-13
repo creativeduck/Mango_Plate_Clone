@@ -56,6 +56,9 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="6dp"
                     android:layout_marginStart="5dp"
+                    android:maxLines="1"
+                    android:maxLength="9"
+                    android:ellipsize="end"
                     android:text="스시쇼부"
                     android:textSize="14sp"
                     android:textColor="@color/black"/>
@@ -69,6 +72,9 @@
                     android:id="@+id/item_location"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:maxLines="1"
+                    android:maxLength="12"
+                    android:ellipsize="end"
                     android:text="은평구"
                     android:textSize="11sp" />
                 <TextView

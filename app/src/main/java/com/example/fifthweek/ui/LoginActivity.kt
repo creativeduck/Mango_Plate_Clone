@@ -117,9 +117,7 @@ class LoginActivity : AppCompatActivity() {
                 val kakaoId = user!!.id
                 setSharedData("kakaoID", "kakaoID", kakaoId)
                 startMainActivity()
-//                viewModel?.addaddKakaoUser(token.accessToken, kakaoId)
             }
-//            Timber.d("로그인 성공 - 토큰 ${authManager.token}")
         }
     }
 
@@ -157,9 +155,6 @@ class LoginActivity : AppCompatActivity() {
         super.onActivityResult(requestCode, resultCode, data)
     }
 
-    fun showToast(str: String) {
-        Toast.makeText(this, str, Toast.LENGTH_SHORT).show()
-    }
     fun setSharedData(name: String, key: String, data: String?) {
         val pref = getSharedPreferences(name, Activity.MODE_PRIVATE)
         val editor = pref.edit()

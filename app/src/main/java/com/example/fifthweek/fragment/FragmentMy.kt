@@ -8,6 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
+import android.widget.LinearLayout
 import android.widget.TextView
 import android.widget.Toast
 import androidx.fragment.app.Fragment
@@ -55,8 +56,8 @@ class FragmentMy : Fragment() {
 
         }
 
-        val btnLogout : Button = view.findViewById(R.id.btnLogout)
-        btnLogout.setOnClickListener {
+        val linearLogout : LinearLayout = view.findViewById(R.id.linearLogout)
+        linearLogout.setOnClickListener {
             UserApiClient.instance.logout { error ->
                 if (error != null) {
                     Log.e(TAG, "로그아웃 실패", error)
@@ -70,8 +71,8 @@ class FragmentMy : Fragment() {
             setSharedData("userProfile", "userProfile", null)
         }
 
-        val btnDisConnect : Button = view.findViewById(R.id.btnDisconnect)
-        btnDisConnect.setOnClickListener {
+        val linearDisconnect : LinearLayout = view.findViewById(R.id.linearDisconnect)
+        linearDisconnect.setOnClickListener {
             UserApiClient.instance.unlink { error ->
                 if (error != null) {
                     Log.e(TAG, "연결 끊기 실패", error)

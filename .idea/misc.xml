@@ -6,43 +6,101 @@
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/curcheck_shape.xml" value="0.24537037037037038" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/default_dot.xml" value="0.1425925925925926" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/distance_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/ic_arrow_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/ic_arrow_shape_white.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/ic_game_shape_white.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/ic_search_shape_white.xml" value="0.12222222222222222" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/ic_search_white.xml" value="0.12222222222222222" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/revise_shape.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/selected_dot.xml" value="0.1425925925925926" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/splash_shape.xml" value="0.15833333333333333" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/tab_selector.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable-v24/trending_gradient.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/apple_layer.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/bg_appcolorwhite_radius.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/call_shape.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/facebook_layer.xml" value="0.5234375" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/grid_selector.xml" value="0.3764102564102564" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/grid_shape.xml" value="0.3764102564102564" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/grid_shape_selected.xml" value="0.3764102564102564" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_back_shape.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_control_point_24.xml" value="0.3764102564102564" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_gamepad_24.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24_white.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_playlist_add_24.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_star_border_24_orange.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_baseline_visibility_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_call_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_camera_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_camera_shape_white.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_close.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_close_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_create_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_left_arrow_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_marker.xml" value="0.125" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_outline_call_24.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_outline_create_24.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_outline_map_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_outline_photo_camera_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_outline_photo_camera_24_white.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_outline_share_24.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_outline_share_24_white.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_plus.xml" value="0.3764102564102564" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_sdv_removebg_preview__1_.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_share_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_share_shape_white.xml" value="0.38871794871794874" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_specific_location_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_specific_mylist_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_specific_revie_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_star_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_star_shape_orange.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/ic_visibility_shape.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/icon_map_selector.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/jibun_shape.xml" value="0.30833333333333335" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/kakao_layer.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/login_layer.xml" value="0.22" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/logo_shape.xml" value="0.3055555555555556" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/navigation_selec_color.xml" value="0.14629629629629629" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/revise_layer.xml" value="0.38229166666666664" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/revise_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/seek_mark.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/seek_thumb.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/drawable/seekbar.xml" value="0.1175925925925926" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/activity_kakao_login.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/activity_map.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/activity_select_location.xml" value="0.22" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/activity_select_location_tmp.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/activity_specific.xml" value="0.33" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/activity_speficit_item.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/activity_splash.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/control_distance.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/custom_ad.xml" value="0.33" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/custom_ad_item.xml" value="0.1" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/custom_main_food_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/custom_marker.xml" value="0.9" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/distance_bottom.xml" value="0.5" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/fragment_discovery.xml" value="0.36614583333333334" />
-        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/fragment_my.xml" value="0.5" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/fragment_my.xml" value="0.33" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/fragment_news.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/fragment_sale.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/gu_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/image_view.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/item_specific_info.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/select_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/layout/tastey_bottom.xml" value="0.37864583333333335" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/menu/app_bar_menu.xml" value="0.33" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/menu/navigation_items.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/menu/select_menu.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/menu/specific_menu.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/menu/specific_toolbar_menu.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/User/Desktop/SSAC/FifthWeek/FifthWeek/app/src/main/res/menu/specific_toolbar_menu_collapsed.xml" value="0.36614583333333334" />
       </map>
@@ -53,5 +111,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36614583333333334" />
+      </ProjectState>
+    </option>
   </component>
 </project>

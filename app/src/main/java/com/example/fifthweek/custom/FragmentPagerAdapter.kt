@@ -1,4 +1,4 @@
-package com.example.fifthweek
+package com.example.fifthweek.custom
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
