@@ -1,10 +1,14 @@
 ## 👋 망고플레이트 클론코딩
 [Notion](https://www.notion.so/6bf2cde316f6452ba0e985bfede35dc1)   
+<img width="500" alt="asdf" src="https://user-images.githubusercontent.com/89892954/137138146-1a8c104c-5d5e-4789-a320-577509c42745.gif">    
 <img width="690" alt="asdf" src="https://user-images.githubusercontent.com/89892954/137137792-b617220c-aa37-43da-9f8b-89469193076f.png">   
 <img width="690" alt="asdf" src="https://user-images.githubusercontent.com/89892954/137137850-b47d3bb2-ea52-4fc5-9a31-22a00a47937e.png">   
 <img width="690" alt="asdf" src="https://user-images.githubusercontent.com/89892954/137137859-335c73bf-4475-4662-bf6a-d17664c74575.png">   
 ### 🛠 기능
-+ 
++ 뷰페이저 무한 스크롤 기능 구현
++ API를 활용한 음식점 데이터 구현
++ AppbarLayout 활용해 ActionBar 스타일 변경 기능 구현
++ 뷰페이저와 구글맵 마커 간 연동
 
 ### 📗 Library & What I Learned
 + DiffUtil
