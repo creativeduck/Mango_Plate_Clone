@@ -30,10 +30,10 @@
             android:value="@string/facebook_app_id"/>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="${GOOGLE_MAP_API_KEY}" />
+            android:value="AIzaSyCw3XmPu7a4sbsgUmiaMLI3P6Mus-XIMKM" />
         <meta-data
             android:name="com.naver.maps.map.CLIENT_ID"
-            android:value="${NAVER_CLIENT_ID}"/>
+            android:value="iyrimg8mf0"/>
 
         <activity
             android:name="com.facebook.FacebookActivity"
@@ -63,7 +63,7 @@
                 <!-- Redirect URI: "kakao{NATIVE_APP_KEY}://oauth" -->
                 <data
                     android:host="oauth"
-                    android:scheme="kakao${KAKAO_NATIVE_KEY}" />
+                    android:scheme="kakao0bb232551e01c292b2230ed8114c3b3c" />
             </intent-filter>
         </activity>
         <activity
