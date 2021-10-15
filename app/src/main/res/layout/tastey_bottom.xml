@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="130dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    app:layout_behavior="@string/bottom_sheet_behavior"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="130dp"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:id="@+id/paragonRela"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/Paragon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/image2"
+            android:layout_centerHorizontal="true"
+            android:text="모범음식점"
+            android:textColor="@color/black"
+            android:textSize="12sp" />
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="25dp"
+            android:layout_height="35dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="6dp"
+            android:background="@drawable/ic_back"
+            android:scaleType="centerInside" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/tasteyRela"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/Tastey"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/image1"
+            android:layout_centerHorizontal="true"
+            android:text="맛집"
+            android:textColor="@color/black"
+            android:textSize="12sp" />
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="25dp"
+            android:layout_height="35dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="6dp"
+            android:background="@drawable/ic_baseline_visibility_24"
+            android:scaleType="centerInside" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/safeRela"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/Safe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/image3"
+            android:layout_centerHorizontal="true"
+            android:text="안심식당"
+            android:textColor="@color/black"
+            android:textSize="12sp" />
+        <ImageView
+            android:id="@+id/image3"
+            android:layout_width="25dp"
+            android:layout_height="35dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="6dp"
+            android:background="@drawable/ic_outline_map_24"
+            android:scaleType="centerInside" />
+    </RelativeLayout>
+
+</LinearLayout>
