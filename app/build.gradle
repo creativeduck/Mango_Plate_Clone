@@ -29,12 +29,6 @@ android {
         buildConfigField "String", "SEOUL_API_KEY", properties['seoul_api_key']
         buildConfigField "String", "REST_API_KEY", properties['rest_api_key']
 
-        manifestPlaceholders = [GOOGLE_MAP_API_KEY : google_map_api_key]
-        manifestPlaceholders = [NAVER_CLIENT_ID : naver_client_id]
-        manifestPlaceholders = [KAKAO_NATIVE_KEY : kakao_native_key]
-
-
-
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
